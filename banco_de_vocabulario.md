@@ -263,3 +263,9 @@ Os registros anteriores permanecem preservados. Não duplicar o mesmo item como 
 | Item | Significado | Evidência | Status |
 |---|---|---|---|
 | los pantalones | as calças | Questão 7, página 14: aluno usou «calças» na tradução; recebeu a forma espanhola e pediu revisão posterior. | Introduced |
+
+### 2026-11-25 — complemento da prática da página 14
+- **los pantalones** (já registrado acima): questão 9 mostrou recuperação parcial após modelo, mas gênero e concordância ainda instáveis; prioridade de revisão, sem promoção a Active.
+- **en cambio**: usado repetidamente nas respostas 2–10; Being activated (tarefa dirigida, não espontânea).
+- **aquel / aquella / aquellos / aquellas**: Being activated; retestar concordância sem pistas.
+- **enfadado/a, mojado/a, encendido/a**: Introduced (correções das questões 4, 9 e 10).
