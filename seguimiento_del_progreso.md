@@ -54,3 +54,9 @@ Meses posteriores até julho de 2028 ainda não avaliados. Acrescentar uma linha
 | 2026-11-24 | Confirmação da rotina contínua de espanhol, 3h20 planejadas por semana, sem alternância de semanas de imersão | Planejamento não comprova horas cumpridas |
 
 **Próxima revisão:** produzir frases novas sem pistas com *a/en/de*, *ser/estar*, gênero/concordância, opostos e posições. Manter A1 **autodeclarado** e habilidades sem avaliação formal como não avaliadas. Não transferir avaliações de inglês.
+
+## Sessão de 2026-11-25 — página 14
+- Dez traduções orais dirigidas PT→ES sobre *Los opuestos (II) – En cambio*. Notas dadas por questão: 9,5; 9; 10; 7; 7; 10; 7; 10; 6; 8. Média 8,35/10 (83,5/100); notas pedagógicas da sessão, não avaliação CEFR.
+- Ponto forte: uso consistente de estar e en cambio; questões 3, 6 e 8 sem correções de conteúdo.
+- Prioridades: demonstrativos e concordância de gênero/número; artigos plurais; recuperação lexical de pantalones (pedido explícito), mojado, enfadado e encendido.
+- Evidência baseada na transcrição de voz, com feedback após cada questão; não avaliar pronúncia, listening, leitura ou escrita a partir dela. A1 autodeclarado permanece sem diagnóstico formal.
