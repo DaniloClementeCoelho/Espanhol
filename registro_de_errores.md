@@ -43,3 +43,16 @@ Fonte: relato direto do aluno. Não houve amostra de áudio nem produção textu
 | 2026-11-23 | Correções relatadas | *vieja, primo, edificio, aburrido, preocupado, delante, enfermo, niñas, vecinos*; contraste *y/pero* | Não há pares completos de produção e forma-alvo para registrar cada item como erro independente | A verificar |
 
 **Nota:** a síntese da sessão de 23/11 menciona que *preocupado* foi contrastado com *aburrido* e que *y/pero* foi discutido; isso não comprova recorrência. Retestar produção espontânea em nova sessão.
+
+## 2026-11-25 — página 14, tradução oral PT→ES
+Evidência: transcrição da sessão; não diagnosticar pronúncia. Formas registradas para reteste, sem inferir domínio.
+
+| Questão | Produção transcrita | Forma-alvo | Categoria | Status |
+|---|---|---|---|---|
+| 1 | em cambio | en cambio | interferência gráfica possível na transcrição; demais respostas com en cambio | Improving (a confirmar) |
+| 2, 5, 9, 10 | aquele restaurante; aquel mesa; aquelas pantalonás; aquela luz | aquel restaurante; aquella mesa; aquellos pantalones; aquella luz | demonstrativos e concordância | Active |
+| 4 | El niños; adultos (sem artigo) | Los niños; los adultos | artigos no plural | Active |
+| 4 | aburridos (irritados) | enfadados / enojados | contraste lexical | Active |
+| 5, 7 | suya; limpio (mesa); limpos | sucia; limpia; limpios | léxico e concordância | Active |
+| 7, 9 | su calças; Estas pantalones están molladas; ... secas | tus/sus pantalones; Estos pantalones están mojados; ... secos | léxico, possessivo plural e gênero masculino | Active |
+| 10 | acesa | encendida | interferência lexical | Active |
