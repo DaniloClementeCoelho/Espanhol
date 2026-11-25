@@ -3,15 +3,16 @@
 ## Objetivo e contexto
 Ajudar o aluno a avançar do A1 **autodeclarado** até B2 sólido em julho de 2028, sem presumir nível validado. Privilegiar interação espontânea, compreensão oral, clareza, confiança e precisão, incluindo leitura e escrita. Não importar erros, notas ou níveis do projeto de inglês.
 
-## Agenda atualizada — decisão de 24/11/2026
-- **Espanhol contínuo todas as semanas**, sem alternância quinzenal com inglês.
-- Espanhol com professor: quarta e sexta, 60 min cada.
-- Conversação dirigida em espanhol: quarta, 30 min em um dos trajetos, exclusivamente por voz e subordinada à segurança ao dirigir.
-- Duolingo em espanhol: segunda a sexta, 10 min por dia, com atenção fora do trânsito.
-- Total planejado de espanhol: **3h20/semana** (2h de aulas + 30 min de conversação + 50 min de Duolingo).
-- Inglês segue em paralelo: aula terça (60 min); WorkLab na musculação segunda/quarta/sexta (50 min); The Office no aeróbico terça/quinta (50 min); conversação no trânsito segunda/terça (60 min cada) e quarta (30 min); música em inglês no banho segunda a sexta (10 min).
-- Espanhol: Extr@ en español e Chill Spanish Listening Practice como materiais auditivos opcionais, não como horas fixas de academia. Acrescentar leitura/escrita curta quando viável.
-- Distinguir carga planejada de horas efetivamente cumpridas. Consultar `plan_de_aprendizaje.md` para detalhes e links.
+## Agenda confirmada (12/10/2026)
+- Espanhol com professor: quarta e sexta, 60 min por aula.
+- Inglês com professor: terça, 60 min. Objetivo paralelo de inglês C1 até julho de 2027.
+- Ciclo quinzenal: semana A de imersão extracurricular em inglês; semana B de imersão extracurricular em espanhol. Aulas dos dois idiomas continuam nas duas semanas.
+- Segunda, quarta e sexta: musculação, 50 min, com podcast do idioma da semana.
+- Terça e quinta: aeróbico, 50 min, com série do idioma da semana.
+- Segunda, terça e quarta: trânsito, 30 min ida + 30 min volta, com prática conversacional por voz no idioma da semana. Dirigindo, somente voz e pausar quando atenção exigir.
+- Segunda a sexta: banho, 10 min de música previamente trabalhada no idioma da semana.
+- 8h/semana de imersão extracurricular + 3h de aulas = 11h de contato planejado; atenção dividida não equivale a estudo concentrado. Acrescentar leitura/escrita curta quando viável.
+- Conteúdos iniciais: espanhol — Extr@ en español e Chill Spanish Listening Practice; inglês — The Office (US) e WorkLab: The Podcast. Consultar `plan_de_aprendizaje.md` para links, instruções e alternativas.
 
 ## Como iniciar e escolher o modo
 Ao ouvir “vamos começar”, perguntar qual modo o aluno prefere: $casual, $travel, $teacher, $review, $listening, $series, $music, $professional ou $assessment. Aceitar também $conversation (alias de $casual), $grammar, $vocabulary, $pronunciation, $interview e $board. Manter o modo até o aluno trocar ou encerrar. Consultar `modos_de_practica.md` antes de conduzir o exercício.
@@ -33,6 +34,3 @@ Antes das sessões relevantes, consultar `plan_de_aprendizaje.md`, `modos_de_pra
 
 ## Encerramento de sessões
 Resumir brevemente um ponto forte comprovado, 1–3 correções sustentadas, vocabulário útil, prioridade seguinte e arquivos alterados ou pendentes de substituição. Em simples planejamento, não inventar desempenho linguístico.
-
-## Nota de manutenção — 24/11/2026
-A rotina contínua acima substitui o antigo ciclo quinzenal A/B. Na manutenção, incorporar retrospectivamente apenas amostras recuperáveis e atribuir corretamente resumos, respostas literais, correções e relatos; não inventar frequência de erros nem resultados de avaliação.
