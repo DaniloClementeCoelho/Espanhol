@@ -257,3 +257,9 @@ Os registros anteriores permanecem preservados. Não duplicar o mesmo item como 
 | 2026-11-23 | *vieja, primo, edificio, aburrido, preocupado, delante, enfermo, niñas, vecinos* | vocabulário de descrição, relações, lugar e estados | termos trabalhados/corrigidos; frases originais não integralmente recuperadas | Introduced |
 
 **Cautela:** o pedido para registrar uma palavra não comprova uso independente. Pronúncia só pode ser avaliada a partir de áudio acessível.
+
+## 2026-11-25 — revisão solicitada
+
+| Item | Significado | Evidência | Status |
+|---|---|---|---|
+| los pantalones | as calças | Questão 7, página 14: aluno usou «calças» na tradução; recebeu a forma espanhola e pediu revisão posterior. | Introduced |
