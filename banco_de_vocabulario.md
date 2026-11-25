@@ -268,4 +268,4 @@ Os registros anteriores permanecem preservados. Não duplicar o mesmo item como 
 - **los pantalones** (já registrado acima): questão 9 mostrou recuperação parcial após modelo, mas gênero e concordância ainda instáveis; prioridade de revisão, sem promoção a Active.
 - **en cambio**: usado repetidamente nas respostas 2–10; Being activated (tarefa dirigida, não espontânea).
 - **aquel / aquella / aquellos / aquellas**: Being activated; retestar concordância sem pistas.
-- **enfadado/a, mojado/a, encendido/a**: Introduced (correções das questões 4, 9 e 10).
+- **enfadado/a, mojado/a, encendido/a**: Introduced (correções das questões 4, 9 e 10). **Encendida** (acesa, feminino de encendido): revisão posterior solicitada expressamente pelo aluno em 25/11; exemplo-alvo: «La luz está encendida».
