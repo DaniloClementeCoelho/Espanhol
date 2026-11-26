@@ -59,3 +59,13 @@ Meses posteriores até julho de 2028 ainda não avaliados. Acrescentar uma linha
 
 **Próxima revisão:** produzir frases novas sem pistas com *a/en/de*, *ser/estar*, gênero/concordância, opostos e posições. Manter A1 **autodeclarado** e habilidades sem avaliação formal como não avaliadas. Não transferir avaliações de inglês.
 
+
+## Sessão de 2026-11-26 — página 14, «Los opuestos (II) – En cambio»
+
+Aluno informou ter estudado **até a página 19** da apostila. Atividade planejada: 20 traduções PT→ES, uma por vez; foram trabalhadas as perguntas **1 a 9**, com repetições e correções guiadas, e a sessão foi encerrada a pedido do aluno. Não considerar 20 perguntas concluídas.
+
+**Ponto forte comprovado:** usou «en cambio» em frases contrastivas e conseguiu produzir corretamente «La ventana está abierta, en cambio la puerta está cerrada» e, após correção, «La sala está vacía, en cambio, la habitación está llena».
+
+**Dificuldades observadas:** artigo/gênero de «habitación» (dois episódios), «el pasillo» (troca lexical «pasadero/pasadillo» e artigo «la»), «oscura» versus «escura», confusão entre «vacío», «lleno» e «lejos», e concordância «llena». Pediu registro/revisão de «pasillo» e «oscuro», já existentes no banco, atualizados sem duplicação. Houve melhora imediata em repetição guiada, não comprovação de domínio espontâneo.
+
+**Próxima prioridade:** retestar sem pistas «el pasillo», «la habitación», «oscuro/oscura», «vacío/lleno/lejos»; continuar a partir da **pergunta 10 de 20**, sem repetir a sessão toda. Nível segue **A1 autodeclarado**, sem avaliação formal das quatro habilidades; pronúncia não pode ser validada apenas pela transcrição.
