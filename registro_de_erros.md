@@ -83,3 +83,14 @@ Fonte: respostas e correções registradas em transcrição SRT; pronúncia exat
 |2026-11-26|Vocabulário / articulação transcrita|«el paseillo»|«el pasillo»|Novo conjunto, pergunta 16; reincidência do item já registrado|1 episódio adicional; repetição correta|Active|
 
 **Outras evidências:** novo conjunto, perguntas 1, 4, 11, 12 e 17–20 com traduções corretas na primeira resposta completa; pergunta 8 corrigida após registro de «la lámpara». Em «lejos», aluno perguntou se o S indicava plural; foi esclarecido que o advérbio é invariável e não existe «lejo» com esse sentido. Evitar inferir erros fonéticos apenas da transcrição.
+
+## Sessão de localização — 2026-11-26 (página 11, 20 perguntas)
+
+| Data | Foco | Produção observada | Forma-alvo | Evidência / acompanhamento | Status |
+|---|---|---|---|---|---|
+| 2026-11-26 | Advérbios de lugar | «allí» por «ahí»; «la» por «allá», recorrentes | «ahí» = aí; «allí» = ali; «allá» = lá | Perguntas 2, 5, 7, 8, 11, 12 e 17; corrigiu após orientação, retestar sem pistas | Active |
+| 2026-11-26 | Artigo feminino | «el llave», «la gafas» | «la llave», «las gafas» | Perguntas 9, 11 e 19; correções guiadas | Active |
+| 2026-11-26 | Vocabulário e concordância | «la tijora», «la tijera está»; dificuldade em recordar tesoura | «las tijeras están» | Perguntas 2, 7, 12 e 20; repetição final correta, ainda com pistas | Active |
+| 2026-11-26 | Interferência do português | «perto de ti», «cerca de yo» | «cerca de ti», «cerca de mí» | Perguntas 5, 11, 15 e 20; autocorreção guiada | Active |
+
+**Observação:** frases foram encurtadas a pedido do aluno; as notas orais são formativas. A transcrição não comprova qualidade fonética.
