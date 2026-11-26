@@ -62,3 +62,24 @@ Fonte: transcrição SRT da sessão, perguntas 1–9 de 20. As produções são 
 |2026-11-26|Artigo|«de bar»|«el bar»|Pergunta 1; repetição correta|1 episódio|Improving|
 
 **Evidência positiva:** uso de «en cambio» em várias respostas; acerto guiado de «La habitación está limpia, pero el baño está sucio», «La ventana está abierta, en cambio la puerta está cerrada» e «La sala está vacía, en cambio, la habitación está llena». A avaliação da pergunta 8 como 10/10 não corresponde à transcrição «escura»; a pergunta 9 foi corrigida corretamente na repetição, apesar do feedback subsequente mencionar um «el» inexistente. Não usar essas notas isoladas como medida padronizada.
+
+## Continuação da sessão — 2026-11-26 (perguntas 10–20 e novo conjunto de 20)
+
+Fonte: respostas e correções registradas em transcrição SRT; pronúncia exata não aferida acusticamente. Manter histórico anterior; repetição após modelo não comprova resolução.
+
+|Data|Categoria|Produção real|Forma-alvo / correção|Contexto|Evidência|Status|
+|-|-|-|-|-|-|-|
+|2026-11-26|Vocabulário e interferência do português|«molhada», «pantalone», «está seca»|«La camisa está mojada, pero los pantalones están secos»|Novo conjunto, pergunta 2|1 resposta inicial; repetição correta|Improving|
+|2026-11-26|Vocabulário|«ascendida», «asendida»|«encendida»|Novo conjunto, pergunta 3; aluno solicitou registro no banco|2 tentativas antes de acerto guiado|Active|
+|2026-11-26|Vocabulário de opostos|«la mujer está tranquila» por «libre»|«la mujer está libre»|Novo conjunto, pergunta 5|1 troca; repetição correta|Active|
+|2026-11-26|Vocabulário|«el chón»|«el suelo»|Novo conjunto, pergunta 6; solicitou inclusão no banco|1 troca; repetição correta|Active|
+|2026-11-26|Artigo e interferência lexical|«el niña está contente»|«la niña está feliz» ou «la niña está contenta»|Novo conjunto, pergunta 7|1 resposta inicial; repetição com «feliz» correta|Improving|
+|2026-11-26|Precisão lexical|«la luz» por «la lámpara»|«la lámpara»|Novo conjunto, pergunta 8; solicitou treino de pronúncia|1 substituição; repetição correta|Active|
+|2026-11-26|Concordância|«el bar está llena, lleno»|«el bar está lleno»|Novo conjunto, pergunta 9|autocorreção na própria resposta; repetição correta|Improving|
+|2026-11-26|Produção incompleta|«La calle está cerca, en cambio, el pasillo está»|«La calle está cerca; en cambio, el pasillo está lejos»|Novo conjunto, pergunta 10|resposta incompleta; feedback atribuiu incorretamente 10/10|Active|
+|2026-11-26|Interferência do português|«el aluno»|«el alumno»|Novo conjunto, pergunta 13|1 episódio; repetição correta|Improving|
+|2026-11-26|Interferência do português|«el computador está ligado»|«el computador está encendido»|Novo conjunto, pergunta 14|1 episódio; repetição correta|Active|
+|2026-11-26|Precisão lexical|«el médico está nervioso» por «preocupado»|«el médico está preocupado»|Novo conjunto, pergunta 15|1 troca; repetição correta|Active|
+|2026-11-26|Vocabulário / articulação transcrita|«el paseillo»|«el pasillo»|Novo conjunto, pergunta 16; reincidência do item já registrado|1 episódio adicional; repetição correta|Active|
+
+**Outras evidências:** novo conjunto, perguntas 1, 4, 11, 12 e 17–20 com traduções corretas na primeira resposta completa; pergunta 8 corrigida após registro de «la lámpara». Em «lejos», aluno perguntou se o S indicava plural; foi esclarecido que o advérbio é invariável e não existe «lejo» com esse sentido. Evitar inferir erros fonéticos apenas da transcrição.
