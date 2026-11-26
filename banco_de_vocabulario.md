@@ -39,3 +39,5 @@
 | 26/11/2026 | **mojado / mojada** | molhado/a; aluno disse «molhada» em tradução, depois corrigiu | **Ativo** |
 | 26/11/2026 | **libre** | livre, desocupado/a; confundido com «tranquila» no contraste «ocupado/libre» | **Ativo** |
 | 26/11/2026 | **las tijeras** | a tesoura; normalmente usada no plural em espanhol. Na tradução oral, houve hesitação e uso de «tesoura»; revisar «las tijeras están» | **Ativo** |
+
+| 26/11/2026 | **las gafas** | os óculos; aluno não recordou o termo na pergunta 4 e usou «la gafas» na 11; revisar artigo plural | **Ativo** |
