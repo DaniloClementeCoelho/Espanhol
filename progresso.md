@@ -69,3 +69,11 @@ Aluno informou ter estudado **até a página 19** da apostila. Atividade planeja
 **Dificuldades observadas:** artigo/gênero de «habitación» (dois episódios), «el pasillo» (troca lexical «pasadero/pasadillo» e artigo «la»), «oscura» versus «escura», confusão entre «vacío», «lleno» e «lejos», e concordância «llena». Pediu registro/revisão de «pasillo» e «oscuro», já existentes no banco, atualizados sem duplicação. Houve melhora imediata em repetição guiada, não comprovação de domínio espontâneo.
 
 **Próxima prioridade:** retestar sem pistas «el pasillo», «la habitación», «oscuro/oscura», «vacío/lleno/lejos»; continuar a partir da **pergunta 10 de 20**, sem repetir a sessão toda. Nível segue **A1 autodeclarado**, sem avaliação formal das quatro habilidades; pronúncia não pode ser validada apenas pela transcrição.
+
+## Continuação e encerramento — 2026-11-26
+
+Após o bloco inicial (perguntas 1–9), o aluno completou as perguntas 10–20 do primeiro conjunto e, em seguida, **20 traduções adicionais** sobre os opostos da página 14, com autocorreções e repetições guiadas. No segundo conjunto, respostas finais das perguntas 1–20 foram trabalhadas; na pergunta 10 a resposta «La calle está cerca, en cambio, el pasillo está» ficou incompleta antes da intervenção, portanto **não contar como acerto integral**. Notas dadas durante a aula (5–10) são feedback formativo, não pontuação padronizada de proficiência.
+
+**Força demonstrada:** uso recorrente de «estar» e «en cambio»; produção correta sem correção imediata em «La habitación está sucia, en cambio, la cocina está limpia», «El restaurante está vacío, en cambio, la calle está llena» e «La puerta está cerrada, en cambio, la ventana está abierta». **Melhora após orientação:** «encendida», «el suelo», «la lámpara», «el alumno», «el pasillo» e concordância «lleno/llena»; ainda não considerar essas formas resolvidas.
+
+**Prioridades seguintes:** (1) recuperar sem pistas «encendida», «la lámpara», «el suelo», «el pasillo» e «el alumno»; (2) distinguir «preocupado/nervioso», «ocupado/libre», «lleno/llena» e «lejos» (advérbio invariável); (3) continuar treino oral de artigos e concordância em frases novas. Nível permanece **A1 autodeclarado**, sem avaliação mensal formal ou classificação CEFR nova. Transcrição não substitui avaliação acústica da pronúncia.
