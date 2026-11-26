@@ -45,3 +45,20 @@ Fonte: relato direto do aluno. Não houve amostra de áudio nem produção textu
 
 **Nota:** a síntese da sessão de 23/11 menciona que *preocupado* foi contrastado com *aburrido* e que *y/pero* foi discutido; isso não comprova recorrência. Retestar produção espontânea em nova sessão.
 
+
+## Sessão de 2026-11-26 — tradução oral, opostos e «en cambio»
+
+Fonte: transcrição SRT da sessão, perguntas 1–9 de 20. As produções são transcritas; não há verificação acústica independente de pronúncia. Repetições guiadas não demonstram resolução definitiva.
+
+|Data|Categoria|Produção real|Forma corrigida|Contexto/fonte|Frequência observada|Status|
+|-|-|-|-|-|-|-|
+|2026-11-26|Artigo/gênero|«El habitación está limpia»; «el habitación está lleno»|«La habitación está limpia»; «la habitación está llena»|Perguntas 2 e 9; correções guiadas corretas|2 episódios|Active|
+|2026-11-26|Concordância|«el habitación está lleno»|«la habitación está llena»|Pergunta 9; acertou na repetição|1 episódio|Improving|
+|2026-11-26|Interferência lexical|«perigosa», «bairro»|«peligrosa», «barrio»|Pergunta 3; repetição corrigida|1 episódio cada|Improving|
+|2026-11-26|Vocabulário|«pasadero», «pasadillo» (repetido)|«pasillo»|Pergunta 4; depois «la pasillo» na 8; produção posterior correta «El pasillo»|3 episódios lexicais na transcrição|Active|
+|2026-11-26|Artigo|«La pasillo»|«El pasillo»|Pergunta 8; corrigiu na repetição|1 episódio|Improving|
+|2026-11-26|Interferência lexical|«acesa», «escura»|«iluminada», «oscura»|Perguntas 4 e 8; «escura» não foi corrigida explicitamente na sessão|1 episódio cada|Active|
+|2026-11-26|Opostos/vocabulário|«lejos» por «vacío» e depois por «lleno»; «vacío» por «lleno»|«El restaurante está vacío; en cambio, el bar está lleno»|Pergunta 7; final isolado «el bar está lleno» correto|3 substituições na tarefa|Active|
+|2026-11-26|Artigo|«de bar»|«el bar»|Pergunta 1; repetição correta|1 episódio|Improving|
+
+**Evidência positiva:** uso de «en cambio» em várias respostas; acerto guiado de «La habitación está limpia, pero el baño está sucio», «La ventana está abierta, en cambio la puerta está cerrada» e «La sala está vacía, en cambio, la habitación está llena». A avaliação da pergunta 8 como 10/10 não corresponde à transcrição «escura»; a pergunta 9 foi corrigida corretamente na repetição, apesar do feedback subsequente mencionar um «el» inexistente. Não usar essas notas isoladas como medida padronizada.
