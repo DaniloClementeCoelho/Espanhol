@@ -35,3 +35,6 @@
 | 26/11/2026 | **encendida / encendido** | ligada / ligado; particípio de **encender** (ligar, acender). Oposto: **apagada / apagado**. Dificuldade oral observada: «ascendida», «asendida» por «encendida»; praticar en-cen-DI-da. Inclusão solicitada pelo aluno. | **Ativo** |
 | 26/11/2026 | **el suelo** | o chão, piso; soletração **S-U-E-L-O**, sílaba tônica **SUE**. Na tradução oral, aluno disse «el chón» e solicitou inclusão explícita no banco. | **Ativo** |
 | 26/11/2026 | **la lámpara** | a lâmpada; pronúncia **LÁM-pa-ra**, acento tônico na primeira sílaba. Aluno pediu inclusão para treinar pronúncia após usar «la luz» em vez de «la lámpara». | **Ativo** |
+| 26/11/2026 | **el alumno** | o aluno; grafia A-L-U-M-N-O; na fala apareceu «aluno», depois corrigido em repetição | **Ativo** |
+| 26/11/2026 | **mojado / mojada** | molhado/a; aluno disse «molhada» em tradução, depois corrigiu | **Ativo** |
+| 26/11/2026 | **libre** | livre, desocupado/a; confundido com «tranquila» no contraste «ocupado/libre» | **Ativo** |
