@@ -33,3 +33,4 @@
 | 23/11/2026 | **cargador** | carregador<br>correção literal de «carregador» para «cargador» | **Ativo** |
 | 23/11/2026 | **vieja; primo; edificio; aburrido; preocupado; delante; enfermo; niñas; vecinos** | vocabulário de descrição, relações, lugar e estados<br>termos trabalhados/corrigidos, sem recuperação integral das frases originais | **Ativo** |
 | 26/11/2026 | **encendida / encendido** | ligada / ligado; particípio de **encender** (ligar, acender). Oposto: **apagada / apagado**. Dificuldade oral observada: «ascendida», «asendida» por «encendida»; praticar en-cen-DI-da. Inclusão solicitada pelo aluno. | **Ativo** |
+| 26/11/2026 | **el suelo** | o chão, piso; soletração **S-U-E-L-O**, sílaba tônica **SUE**. Na tradução oral, aluno disse «el chón» e solicitou inclusão explícita no banco. | **Ativo** |
