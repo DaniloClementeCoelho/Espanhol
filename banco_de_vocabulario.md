@@ -21,7 +21,7 @@
 | 18/11/2026 | **a pie / a caballo** | modo de deslocamento<br>formas-alvo revisadas em exercício de lacunas | **Ativo** |
 | 18/11/2026 | **de** | origem, posse, material e outras relações conforme o contexto<br>dúvida solicitada, sem inferir domínio | **Ativo** |
 | 21/11/2026 | **nervioso / nerviosa** | nervoso/a<br>atividade de vocabulário; pronúncia ainda sem diagnóstico documentado | **Ativo** |
-| 21/11/2026 | **pasillo** | corredor<br>frase trabalhada: «El pasillo está oscuro»; autoria não atribuída sem fonte original | **Ativo** |
+| 21/11/2026 · 26/11/2026 | **pasillo** | corredor<br>26/11: aluno solicitou registro; dificuldade recorrente na fala («pasadillo» → «pasillo»), corrigida após repetição. Frase: «El pasillo está oscuro». Reforçar pronúncia pa-SI-llo | **Ativo** |
 | 21/11/2026 | **oscuro / oscura** | escuro/a<br>atividade de descrição | **Ativo** |
 | 21/11/2026 · 23/11/2026 | **lleno / llena** | cheio/a<br>atividade de opostos/descrição e revisão expressamente solicitada | **Ativo** |
 | 21/11/2026 | **cuaderno** | caderno<br>atividade de vocabulário | **Ativo** |
