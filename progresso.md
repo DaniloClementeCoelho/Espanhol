@@ -77,3 +77,15 @@ Após o bloco inicial (perguntas 1–9), o aluno completou as perguntas 10–20 
 **Força demonstrada:** uso recorrente de «estar» e «en cambio»; produção correta sem correção imediata em «La habitación está sucia, en cambio, la cocina está limpia», «El restaurante está vacío, en cambio, la calle está llena» e «La puerta está cerrada, en cambio, la ventana está abierta». **Melhora após orientação:** «encendida», «el suelo», «la lámpara», «el alumno», «el pasillo» e concordância «lleno/llena»; ainda não considerar essas formas resolvidas.
 
 **Prioridades seguintes:** (1) recuperar sem pistas «encendida», «la lámpara», «el suelo», «el pasillo» e «el alumno»; (2) distinguir «preocupado/nervioso», «ocupado/libre», «lleno/llena» e «lejos» (advérbio invariável); (3) continuar treino oral de artigos e concordância em frases novas. Nível permanece **A1 autodeclarado**, sem avaliação mensal formal ou classificação CEFR nova. Transcrição não substitui avaliação acústica da pronúncia.
+
+## Sessão de localização — 2026-11-26 (página 11)
+
+**Atividade:** 20 perguntas de tradução oral sobre «aquí / ahí / allí / allá», objetos da apostila e expressões «cerca de ti / mí» e «lejos de nosotros». Concluiu a pergunta 20 com «Las tijeras están aquí, cerca de mí» após correção guiada. A pedido do aluno, as frases passaram a ser curtas e sem «pero». Notas orais formativas, não diagnóstico CEFR.
+
+**Força comprovada:** «estar» com substantivos comuns e localização; produziu sem ajuda «La cámara está allí», «El lápiz está allí», «El calendario está ahí, cerca de ti», «El ordenador está allí» e «El reloj está ahí, cerca de ti».
+
+**Correções sustentadas:** (1) contraste «ahí / allí / allá» ainda instável, inclusive «la» por «allá»; (2) artigos femininos «la llave / las gafas»; (3) «las tijeras están» e «cerca de mí» versus interferências «tijora / perto de mí / cerca de yo». Repetições corretas não bastam para status resolvido.
+
+**Vocabulário útil:** «las tijeras», «las gafas», «la llave», «el reloj», «el ordenador», «cerca de ti», «cerca de mí», «lejos de nosotros».
+
+**Próxima prioridade:** recuperar «las tijeras» e «las gafas» sem pistas; treinar «ahí / allí / allá» com frases curtas e artigos corretos; verificar pronúncia por áudio, não apenas transcrição. Nível segue A1 autodeclarado.
