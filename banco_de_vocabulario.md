@@ -38,3 +38,4 @@
 | 26/11/2026 | **el alumno** | o aluno; grafia A-L-U-M-N-O; na fala apareceu «aluno», depois corrigido em repetição | **Ativo** |
 | 26/11/2026 | **mojado / mojada** | molhado/a; aluno disse «molhada» em tradução, depois corrigiu | **Ativo** |
 | 26/11/2026 | **libre** | livre, desocupado/a; confundido com «tranquila» no contraste «ocupado/libre» | **Ativo** |
+| 26/11/2026 | **las tijeras** | a tesoura; normalmente usada no plural em espanhol. Na tradução oral, houve hesitação e uso de «tesoura»; revisar «las tijeras están» | **Ativo** |
