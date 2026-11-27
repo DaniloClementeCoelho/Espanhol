@@ -94,3 +94,21 @@ Fonte: respostas e correções registradas em transcrição SRT; pronúncia exat
 | 2026-11-26 | Interferência do português | «perto de ti», «cerca de yo» | «cerca de ti», «cerca de mí» | Perguntas 5, 11, 15 e 20; autocorreção guiada | Active |
 
 **Observação:** frases foram encurtadas a pedido do aluno; as notas orais são formativas. A transcrição não comprova qualidade fonética.
+
+## Sessão de 2026-11-27 — revisão oral e traduções das páginas 20–25
+
+Fonte: transcrição SRT da aula; pronúncia acústica não validada. Formas corrigidas após pistas ou repetição não equivalem a domínio consolidado.
+
+|Data|Categoria|Produção observada|Forma-alvo|Evidência|Status|
+|-|-|-|-|-|-|
+|2026-11-27|Plural lexical|«La tijera»; depois «Las tijeras»|«Las tijeras» (forma habitual para tesoura)|Revisão inicial; autocorreção após pista|Improving|
+|2026-11-27|Vocabulário|«La luz está asciendida»; «Las luces están acendidas»|«La luz está encendida»; «Las luces están encendidas»|Dois episódios, com repetições corretas posteriores|Active|
+|2026-11-27|Gênero/artigo|«en la salón»|«en el salón»|Revisão; corrigiu após orientação|Improving|
+|2026-11-27|Advérbio de lugar|«Las gafas están allí en el salón» para «aí na sala»|«Las gafas están ahí en el salón»|Um episódio; corrigiu após pista|Active|
+|2026-11-27|Verbo de preço|«cuánto custan esas tijeras»|«¿Cuánto cuestan esas tijeras?»|Bloco de tradução, pergunta 3|Active|
+|2026-11-27|Demonstrativo/gênero|«cuánto cuesta aquel puerta»|«¿Cuánto cuesta aquella puerta allí?»|Pergunta sobre «aquela porta lá»; omitiu localização|Active|
+|2026-11-27|Conjunção/interferência|«with my con mis gafas»; «and nuestra hija»; «una hija en un hijo»; «e las tijeras»; «e muy amigos»|«con mis gafas»; «y nuestra hija»; «una hija y un hijo»; «y las tijeras»; «y muchos amigos»|Vários episódios de alternância de idioma/conjunção|Active|
+|2026-11-27|Quantificador|«muy amigos»|«muchos amigos»|Frase final adicional|Active|
+|2026-11-27|Vocabulário/número|«Nuestra casa tiene tres habitaciones en quatro puertas»|«Nuestra casa tiene tres habitaciones y dos puertas»|Pergunta 4; número da frase-alvo trocado e interferência de «en»|Active|
+
+**Evidência de acerto:** «Yo tengo hambre», «¿Cuánto cuesta eso?», «Nuestra hija tiene quince años y está ahí en el salón», «Ellos tienen hambre, pero no tienen dinero», «Las tijeras están allí». O feedback oral por vezes corrigiu formas que já estavam certas (por exemplo, «están»); preservar a produção literal como referência.
