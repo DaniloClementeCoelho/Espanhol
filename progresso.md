@@ -89,3 +89,13 @@ Após o bloco inicial (perguntas 1–9), o aluno completou as perguntas 10–20 
 **Vocabulário útil:** «las tijeras», «las gafas», «la llave», «el reloj», «el ordenador», «cerca de ti», «cerca de mí», «lejos de nosotros».
 
 **Próxima prioridade:** recuperar «las tijeras» e «las gafas» sem pistas; treinar «ahí / allí / allá» com frases curtas e artigos corretos; verificar pronúncia por áudio, não apenas transcrição. Nível segue A1 autodeclarado.
+
+## Sessão de 2026-11-27 — revisão oral e páginas 20–25
+
+**Atividade:** revisão de «las tijeras», «las gafas», «encendida», «ahí/allí» e «el salón», seguida de traduções PT→ES sobre números, «tener», preços e possessivos. O bloco anunciado como dez perguntas incluiu **11 enunciados** na transcrição (a frase final sobre quinze números foi adicional). Notas orais formativas; não constituem diagnóstico CEFR.
+
+**Evidência positiva:** produziu «Nuestra hija tiene quince años y está ahí en el salón», «Yo tengo hambre», «¿Cuánto cuesta eso?», «Ellos tienen hambre, pero no tienen dinero» e «Las tijeras están allí». Também recuperou «Las gafas están aquí» e «La luz está encendida en el salón» após orientação e repetição.
+
+**Dificuldades observadas:** «la tijera» antes de «las tijeras»; «asciendida/acendidas» antes de «encendida/encendidas»; «en la salón» antes de «en el salón»; alternância «allí» por «ahí»; «custan» por «cuestan»; «aquel puerta» por «aquella puerta»; mistura de português/inglês («with my», «and», «e», «lá», «na») na tradução; «muy amigos» por «muchos amigos». Na frase «Nuestra casa tiene tres habitaciones en quatro puertas», o alvo era «dos puertas». A resposta final «Nuestra casa es pequeña» foi concluída pelo aluno, apesar de feedback prematuro na sessão.
+
+**Próximas prioridades:** (1) automatizar «encendida/encendidas», «las tijeras» e «las gafas» em frases novas; (2) distinguir «ahí/allí/allá» sem pistas; (3) treinar «cuesta/cuestan», «mucho/muy», «y», artigos e demonstrativos em traduções completas. Não alterar nível A1 autodeclarado nem considerar pronúncia comprovada por transcrição.
