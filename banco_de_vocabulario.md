@@ -32,12 +32,17 @@
 | 23/11/2026 | **peligroso / peligrosa** | perigoso/a<br>inclusão solicitada expressamente pelo aluno | **Ativo** |
 | 23/11/2026 | **cargador** | carregador<br>correção literal de «carregador» para «cargador» | **Ativo** |
 | 23/11/2026 | **vieja; primo; edificio; aburrido; preocupado; delante; enfermo; niñas; vecinos** | vocabulário de descrição, relações, lugar e estados<br>termos trabalhados/corrigidos, sem recuperação integral das frases originais | **Ativo** |
-| 26/11/2026 | **encendida / encendido** | ligada / ligado; particípio de **encender** (ligar, acender). Oposto: **apagada / apagado**. Dificuldade oral observada: «ascendida», «asendida» por «encendida»; praticar en-cen-DI-da. Inclusão solicitada pelo aluno. | **Ativo** |
+| 26/11/2026 · 27/11/2026 | **encendida / encendido** | ligada / ligado; particípio de **encender** (ligar, acender). Oposto: **apagada / apagado**. Dificuldade oral observada: «ascendida», «asendida» por «encendida»; praticar en-cen-DI-da. Inclusão solicitada pelo aluno; em 27/11 persistiram «asciendida» e «acendidas», seguidas de correção guiada. | **Ativo** |
 | 26/11/2026 | **el suelo** | o chão, piso; soletração **S-U-E-L-O**, sílaba tônica **SUE**. Na tradução oral, aluno disse «el chón» e solicitou inclusão explícita no banco. | **Ativo** |
 | 26/11/2026 | **la lámpara** | a lâmpada; pronúncia **LÁM-pa-ra**, acento tônico na primeira sílaba. Aluno pediu inclusão para treinar pronúncia após usar «la luz» em vez de «la lámpara». | **Ativo** |
 | 26/11/2026 | **el alumno** | o aluno; grafia A-L-U-M-N-O; na fala apareceu «aluno», depois corrigido em repetição | **Ativo** |
 | 26/11/2026 | **mojado / mojada** | molhado/a; aluno disse «molhada» em tradução, depois corrigiu | **Ativo** |
 | 26/11/2026 | **libre** | livre, desocupado/a; confundido com «tranquila» no contraste «ocupado/libre» | **Ativo** |
-| 26/11/2026 | **las tijeras** | a tesoura; normalmente usada no plural em espanhol. Na tradução oral, houve hesitação e uso de «tesoura»; revisar «las tijeras están» | **Ativo** |
+| 26/11/2026 · 27/11/2026 | **las tijeras** | a tesoura; normalmente usada no plural em espanhol. Na tradução oral, houve hesitação e uso de «tesoura»; em 27/11 iniciou com «la tijera», depois recuperou «las tijeras están»; revisar sem pistas | **Ativo** |
 
-| 26/11/2026 | **las gafas** | os óculos; aluno não recordou o termo na pergunta 4 e usou «la gafas» na 11; revisar artigo plural | **Ativo** |
+| 26/11/2026 · 27/11/2026 | **las gafas** | os óculos; aluno não recordou o termo na pergunta 4 e usou «la gafas» na 11; revisar artigo plural; em 27/11 recuperou corretamente em frases após pistas | **Ativo** |
+
+| 27/11/2026 (reincidência) | **cuesta / cuestan** | custa / custam; «¿Cuánto cuesta eso?» correto, mas «custan» por «cuestan» no plural; praticar a alternância | **Ativo** |
+| 27/11/2026 | **el salón** | a sala (de estar); artigo masculino. Produziu «la salón», corrigiu para «el salón» após pistas | **Ativo** |
+| 27/11/2026 | **aquel / aquella** | aquele / aquela; concordar com substantivo: «aquella puerta» (não «aquel puerta») | **Ativo** |
+| 27/11/2026 | **muchos / muy** | muitos / muito; «muchos amigos», não «muy amigos» | **Ativo** |
